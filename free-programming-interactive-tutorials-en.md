@@ -1,5 +1,6 @@
 ### Index
 
+* [Ada](#ada)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -7,7 +8,6 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
-* [F#](#f-sharp)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
@@ -30,6 +30,11 @@
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)
+
+
+### Ada
+
+* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
 
 
 ### Bash
@@ -70,11 +75,6 @@
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
-
-
-### F Sharp
-
-* [Try F#](http://www.tryfsharp.org)
 
 
 ### Git
